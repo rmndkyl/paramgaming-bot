@@ -11,7 +11,7 @@ Here is the link: https://paramgaming.com/?referCode=6C0ADF94FB#/signup
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dante4rt/paramgaming-bot.git
+   git clone https://github.com/rmndkyl/paramgaming-bot.git
    ```
 
 2. Install dependencies:
