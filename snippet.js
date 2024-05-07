@@ -63,7 +63,7 @@ function _0x593f() {
     '4tILiKG',
     '300XSDEsK',
     'taskClaimed',
-    'Param\x20Gaming\x20Auto\x20Claimer\x20–\x20HappyCuanAirdrop\x0aSubscribe:\x20https://t.me/HappyCuanAirdrop',
+    'Param\x20Gaming\x20Auto\x20Claimer\x20–\x20Layerairdrop\x0aSubscribe:\x20https://t.me/Layerairdrop',
     'Error\x20in\x20Claim\x20Quest:\x20',
     'taskCompleted',
     'log',
